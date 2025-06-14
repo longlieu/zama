@@ -8,3 +8,4 @@ _Secret_
 1. 📅 Organize an online meetup, workshop, or talk about Zama and/or FHE.
 2. 📢 Promote your event on social media or in relevant communities.
 3. 🎥 Host the session — livestream, webinar, Twitter Space, or small group call (min. 30 minutes, 10+ attendees).
+4. 🔗 Share the event link and the recording via the dedicated Submission Form.
