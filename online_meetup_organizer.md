@@ -15,3 +15,5 @@ _Secret_
 
 🟨 **Note:** The Zama team will review submissions and award points by the end of the month.
 # 🎙️ Online Meetup Organizer
+
+_Secret_
