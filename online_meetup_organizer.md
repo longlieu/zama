@@ -21,3 +21,4 @@ _Secret_
 0
 
 ## 🟨 Requirements:
+1. 📅 Organize an online meetup, workshop, or talk about Zama and/or FHE.
