@@ -11,3 +11,4 @@ _Secret_
 4. 🔗 Share the event link and the recording via the dedicated Submission Form.
 
 ## 🟨 You will unlock:
+- ✔️ Earn 150–750 points (150 base + quality bonus up to x5)
