@@ -12,3 +12,5 @@ In about 30 minutes, you'll go from a basic Solidity contract to a fully confide
 - Test your FHEVM-compatible confidential contract
 
 ## Prerequisite
+
+- A basic understanding of Solidity library and Ethereum.
