@@ -10,3 +10,5 @@ In about 30 minutes, you'll go from a basic Solidity contract to a fully confide
 - Write a simple Solidity smart contract
 - Convert it into an FHEVM-compatible confidential contract
 - Test your FHEVM-compatible confidential contract
+
+## Prerequisite
