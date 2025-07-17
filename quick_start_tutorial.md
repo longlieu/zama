@@ -14,3 +14,4 @@ In about 30 minutes, you'll go from a basic Solidity contract to a fully confide
 ## Prerequisite
 
 - A basic understanding of Solidity library and Ethereum.
+- Some familiarity with Hardhat.
